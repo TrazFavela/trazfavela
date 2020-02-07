@@ -21,16 +21,6 @@
             $(this).siblings().removeClass('active');
             $(this).addClass('active');
         });
-
-        /*----------------------------------
-            magnific popup activation
-        ----------------------------------*/
-        $('.image-popup').magnificPopup({
-            type: 'image'
-        });
-        $('.video-play-btn,.play-video-btn').magnificPopup({
-            type: 'video'
-        });
         /*-------------------------------
             back to top
         ------------------------------*/
@@ -42,7 +32,7 @@
         /*------------------------------
             smoth achor effect
         ------------------------------*/
-        $(document).on('click','#appside_main_menu li a', function (e) {
+        $(document).on('click','.smoth-menu li a', function (e) {
             var anchor = $(this).attr('href');
             var link = anchor.slice(0,1);
             if ('#' == link) {
