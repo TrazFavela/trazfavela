@@ -4445,3 +4445,7 @@ ul {
   background-color: #555;
   background-image: none;
 }
+
+.boxed-btn-02.reverse-color.bordered:hover {
+  border: 2px solid #fff;
+}
