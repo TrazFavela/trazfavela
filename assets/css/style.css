@@ -4449,3 +4449,73 @@ ul {
 .boxed-btn-02.reverse-color.bordered:hover {
   border: 2px solid #fff;
 }
+
+.text-white {
+  color: white;
+}
+
+.social-icon {
+  font-size: 32pt;
+}
+
+.footer-logo {
+  padding-top: 1em;
+  text-align: center;
+}
+
+.contact-form-area-02 img {
+  max-height: 500px;
+}
+
+.tab-content {
+  text-align: justify;
+}
+
+.section-title {
+  margin-bottom: 24px;
+}
+
+@media only screen and (max-width: 767px) {
+  .mobile-padding-top-20 {
+    padding-top: 20px;
+  }
+
+  .mobile-padding-top-90 {
+    padding-top: 90px !important;
+  }
+
+  .mobile-padding-bottom-20 {
+    padding-bottom: 20px;
+  }
+
+  .mobile-padding-bottom-35 {
+    padding-bottom: 35px;
+  }
+
+  .mobile-no-margin-bottom {
+    margin-bottom: 0;
+  }
+
+  .connect-area .right-content-area {
+    margin-top: 20px !important;
+  }
+
+  .how-it-work-tab-nav .nav-tabs .nav-item {
+      width: 100%;
+  }
+
+  .mobile-text-center {
+    text-align: center;
+  }
+
+  .mobile-div-center {
+    margin: auto auto;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .social-icon {
+    font-size: 22pt;
+  }
+}
