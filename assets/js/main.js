@@ -32,7 +32,7 @@
         /*------------------------------
             smoth achor effect
         ------------------------------*/
-        $(document).on('click','.smoth-menu li a', function (e) {
+        $(document).on('click','.smoth-menu a', function (e) {
             var anchor = $(this).attr('href');
             var link = anchor.slice(0,1);
             if ('#' == link) {

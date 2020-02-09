@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 07/02/2020 22:36
+  	Creation date: 08/02/2020 23:59
   	*/
 
 @font-face {
@@ -31,3 +31,5 @@
 .flaticon-deal:before { content: "\f100"; }
 .flaticon-goal:before { content: "\f101"; }
 .flaticon-view:before { content: "\f102"; }
+.flaticon-delivery-bike:before { content: "\f103"; }
+.flaticon-restaurant:before { content: "\f104"; }
