@@ -1,14 +1,6 @@
 (function ($) {
 	"use strict";
-    jQuery(document).ready(function($){
-        /*------------------------------
-            counter section activation
-        -------------------------------*/
-        var counternumber = $('.count-num');
-        counternumber.counterUp({
-            delay: 20,
-            time: 3000
-        });
+    jQuery(document).ready(function($) {
         /*--------------------
             wow js init
         --------------------*/
@@ -406,12 +398,12 @@
        
     });
            
-    $(window).on('load',function(){
+    $(window).on('load',function() {
         /*-----------------------------
             preloader
         -----------------------------*/
         var preLoder = $("#preloader");
-        preLoder.fadeOut(1000);
+        preLoder.fadeOut(200);
         /*-----------------------------
             back to top
         -----------------------------*/
