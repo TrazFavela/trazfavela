@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="caminho-svg"
+   version="1.1"
+   viewBox="0 0 485.61712 50.554038"
+   height="191.07037"
+   width="1835.4032">
+  <defs
+     id="defs886">
+    <clipPath
+       id="clipPath1498"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="-136.92455"
+         x="-179.04591"
+         height="123.47852"
+         width="496.58682"
+         id="rect1500"
+         style="opacity:1;fill:#7d40e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.99033546;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.99370003;stroke-opacity:1;paint-order:normal" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(178.91763,85.298437)"
+     id="caminho-layer">
+    <path
+       id="path1502"
+       d="M -178.84349,-50.602994 C -114.68567,-7.1890787 -67.758314,-67.455483 -2.5310305,-67.031527 93.466355,-60.957508 109.99845,-12.322234 306.6535,-85.174384"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
