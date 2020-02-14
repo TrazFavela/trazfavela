@@ -1,4 +1,4 @@
-@charset "UTF-8";@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800");:root{--main-color-one:#ff7700;--main-color-two:#852aff;--secondary-color:#333333;--heading-color:#ff7700;--paragraph-color:#666666;--heading-font:'Poppins', sans-serif;--body-font:'Poppins', sans-serif;}
+@charset "UTF-8";:root{--main-color-one:#ff7700;--main-color-two:#852aff;--secondary-color:#333333;--heading-color:#ff7700;--paragraph-color:#666666;--heading-font:'Poppins', sans-serif;--body-font:'Poppins', sans-serif;}
 .dark-bg{background-color:#f27301;}
 .remove-col-padding{padding:0;}
 .remove-col-padding-right{padding-right:0;}
