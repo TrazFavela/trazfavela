@@ -965,6 +965,7 @@ ul{margin:0;padding:0;list-style:none;}
 .tab-content{text-align:justify;}
 .section-title{margin-bottom:24px;}
 .no-capitalize{text-transform:none;}
+#email{width: 16rem; margin: 0; padding: 0;}
 @media only screen and (max-width:290px){.boxed-btn-02{width:100%;display:block;margin:0px 8px 10px 0px !important;}
 }
 @media only screen and (max-width:767px){.mobile-padding-top-20{padding-top:20px;}
