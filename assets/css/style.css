@@ -959,13 +959,14 @@ ul{margin:0;padding:0;list-style:none;}
 .how-it-work-tab-nav .nav-tabs .nav-item .nav-link.active{background-color:#555;background-image:none;}
 .boxed-btn-02.reverse-color.bordered:hover{border:2px solid #fff;}
 .text-white{color:white;}
+.link-white{color:white;text-decoration:underline;}
 .social-icon{font-size:26pt;}
 .footer-logo{padding-top:1em;text-align:center;}
 .contact-form-area-02 img{max-height:500px;}
 .tab-content{text-align:justify;}
 .section-title{margin-bottom:24px;}
 .no-capitalize{text-transform:none;}
-#email{width: 16rem; margin: 0; padding: 0;}
+#email{width:16rem;margin:0;padding:0;}
 @media only screen and (max-width:290px){.boxed-btn-02{width:100%;display:block;margin:0px 8px 10px 0px !important;}
 }
 @media only screen and (max-width:767px){.mobile-padding-top-20{padding-top:20px;}
