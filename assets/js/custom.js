@@ -36,11 +36,5 @@
                 $('.dark-bg').css('background-color', bgColor);
             }
         }
-
-        $('.outbound-link').on('click', cliqueEstabelecimento);
     });
-
-    function cliqueEstabelecimento() {
-        ga('send', 'event', 'CTA', 'clique', this.title || this.href);
-    }
 }(jQuery));
